@@ -108,8 +108,8 @@ PRO subscription includes:
 
 ### Subscription Plans
 
-- Monthly: $9.99/month
-- Annual: $79.99/year (33% savings)
+- Monthly: $6.99/month
+- Annual: $59.99/year (29% savings)
 
 ### Auto-Renewal
 
