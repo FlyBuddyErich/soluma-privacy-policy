@@ -2,7 +2,7 @@
 
 ## Privacy Policy
 
-**Effective Date:** January 2025
+**Effective Date:** July 2025
 
 ### Information We Collect
 
